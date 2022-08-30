@@ -29,7 +29,7 @@
   I learn more, this will be updated.
 </p>
 
-<h1>What am I doing?</h1>
+<h1 align="center">What am I doing?</h1>
 <p>My Current Goals:</p>
 <ul>
   <li>Learn Python and CSS in more depth</li>
