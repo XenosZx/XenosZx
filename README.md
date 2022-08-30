@@ -29,3 +29,10 @@
   I learn more, this will be updated.
 </p>
 
+<h1>What am I doing?</h1>
+<p>My Current Goals:</p>
+<ul>
+  <li>Learn Python and CSS in more depth</li>
+  <li>Learn more about electronics</li>
+  <li>Learn more about malaware and how it works</li>
+</ul>
