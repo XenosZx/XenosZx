@@ -1,1 +1,1 @@
- <img src="bannerx.png" alt="Xenos' Banner" class="center"> 
+ <img src="bannerxz.png" alt="Xenos' Banner" class="center"> 
