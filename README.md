@@ -3,8 +3,6 @@
 <p align='center'> I am Xenos, a student learning how to code. This is my GitHub. </p>
 <h1 align='center'> My Languages </h1>
 <p align='center'> I know basic HTML, CSS, and Python. I am still learning! </p>
-<img src="py.png"></a>&nbsp;&nbsp;
-<img src="html.png"></a>&nbsp;&nbsp;
-<img src="css.png"></a>&nbsp;&nbsp;
+<p align='center'> <img src="py.svg"></a>&nbsp;&nbsp; <img src="html.svg"></a>&nbsp;&nbsp; <img src="css.svg"></a>&nbsp;&nbsp;
 
 
