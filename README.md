@@ -23,3 +23,9 @@
     height="40"
   />
 </p>
+<h1 align="center">Projects :computer:</h1>
+<p align="center">
+  I currently have no projects, as I am still learning how to code! However, as
+  I learn more, this will be updated.
+</p>
+
