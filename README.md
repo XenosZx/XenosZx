@@ -30,7 +30,7 @@
 </p>
 
 <h1 align="center">What am I doing?</h1>
-<p>My Current Goals:</p>
+<p align="center">My Current Goals:</p>
 <ul>
   <li>Learn Python and CSS in more depth</li>
   <li>Learn more about electronics</li>
