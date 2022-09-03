@@ -4,7 +4,7 @@
   I am Xenos, a student learning how to code. This is my GitHub.
 </p>
 
-<h1 align="center">My Languages</h1>
+<h1 align="center">My Languages and tools</h1>
 <p align="center">I know basic HTML, CSS, and Python. I am still learning!</p>
 <p align="center">
   <img
@@ -19,6 +19,11 @@
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="vscode.svg"
     width="40"
     height="40"
   />
