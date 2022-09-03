@@ -28,7 +28,7 @@
     height="40"
   />
   <img
-    src="logos/pycharm"
+    src="logos/pycharm.png"
     width="40"
     height="40"
   />
