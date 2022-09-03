@@ -23,7 +23,12 @@
     height="40"
   />
   <img
-    src="vscode.svg"
+    src="logos/vscode.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="logos/pycharm"
     width="40"
     height="40"
   />
