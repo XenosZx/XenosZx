@@ -42,7 +42,5 @@
 <h1 align="center">What am I doing?</h1>
 <p align="center">My Current Goals:</p>
 <ul>
-  <li>Learn Python and CSS in more depth</li>
-  <li>Learn more about electronics</li>
-  <li>Learn more about malaware and how it works</li>
+  <li>Learn Python and CS in general in more depth</li>
 </ul>
