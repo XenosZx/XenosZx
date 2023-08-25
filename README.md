@@ -9,5 +9,5 @@
 
 <h1 align="center">Projects :computer:</h1>
 <p align="center">
-I am currently working on LittlePinkEditor. Check it out in my repositories!
+I am currently working on LittlePinkEditor. Check it out in my repositories! 
 </p>
