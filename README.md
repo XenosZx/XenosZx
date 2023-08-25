@@ -5,41 +5,9 @@
 </p>
 
 <h1 align="center">My Languages and tools</h1>
-<p align="center">I know basic HTML, CSS, and Python. I am still learning!</p>
-<p align="center">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    width="40"
-    height="40"
-  />
-  <img
-    src="logos/vscode.svg"
-    width="40"
-    height="40"
-  />
-  <img
-    src="logos/pycharm1.png"
-    width="40"
-    height="40"
-  />
-</p>
+<p align="center">I know basic HTML, CSS, Python, Arduino, and a tad of C/C++. I am still learning!</p>
+
 <h1 align="center">Projects :computer:</h1>
 <p align="center">
-Not currently publicly available. 
+I am currently working on LittlePinkEditor. Check it out in my repositories!
 </p>
-
-<h1 align="center">What am I doing?</h1>
-<p align="center">My Current Goals:</p>
-<ul>
-  <li>Not currently documented.</li>
-</ul>
